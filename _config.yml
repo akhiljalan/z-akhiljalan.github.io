@@ -1,4 +1,5 @@
 name: Akhil Jalan
 markdown: kramdown
-
+title: Akhil's homepage
 theme: jekyll-theme-cayman
+description: For blog posts and projects.
